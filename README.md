@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Computer Vision**
 
-- 👯 I’m looking to collaborate on **Data science and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Data science and Artificial Intelligence in any domain**
 
 - 📫 How to reach me **yashturakhia7@gmail.com**
 
