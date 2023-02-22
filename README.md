@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **yashturakhia7@gmail.com**
 
+-![image](https://user-images.githubusercontent.com/22083274/220644301-0a5b56c0-749f-4f2e-afbc-664efd339adc.png)
+
+
 <!---
 yashturakhia7/yashturakhia7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
