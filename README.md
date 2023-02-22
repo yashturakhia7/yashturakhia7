@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @yashturakhia
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yashturakhia7@gmail.com | LinkedIN - yashturakhia
-
-
-
-
 <h1 align="center">Hi 👋, I'm Yash Turakhia</h1>
 <h3 align="center">A data and tech enthusiast</h3>
 
