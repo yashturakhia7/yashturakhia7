@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Turakhia</h1>
-<h3 align="center">A data and tech enthusiast</h3>
+<h3 align="center">A Data and Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashturakhia7&label=Profile%20views&color=0e75b6&style=flat" alt="yashturakhia7" /> </p>
-
-- 🔭 I’m currently working on **Data science and Artificial Intelligence**
+- 🔭 I’m currently working on  enhancing my knowledege in the field of **Artificial Intelligence and Data Science**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Computer Vision**
 
@@ -11,10 +9,15 @@
 
 - 📫 How to reach me **yashturakhia7@gmail.com**
 
--![image](https://user-images.githubusercontent.com/22083274/220644301-0a5b56c0-749f-4f2e-afbc-664efd339adc.png)
+- I resembel to this saying <h4>***If Data is the problem I would love to solve it***</h4>
 
+<h3> Let's Connect</h3> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashturakhia/">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/>
+  </a>
+</p>
 
-<!---
-yashturakhia7/yashturakhia7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashturakhia7&label=Profile%20views&color=0e75b6&style=flat" alt="yashturakhia7" /> </p>
+
+![Example GIF](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
