@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence in any domain**
 <!-- - 📫 How to reach me **yashturakhia7@gmail.com** -->
 
-- I resemble to this saying <h4>***If Data is the problem I would love to solve it***</h4>
+- I resemble to this saying <h4>***If Data is the problem, I would love to solve it***</h4>
 
 <h3> Let's Connect</h3> 
 <p align="left">
