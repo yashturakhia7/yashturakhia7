@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yash Turakhia</h1>
 <h3 align="center">A Data and Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on  enhancing my knowledege in the field of **Artificial Intelligence and Data Science**
+- 🔭 I’m currently working on  enhancing my knowledge in the field of **Artificial Intelligence and Data Science**
  
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Computer Vision**
 
-- 👯 I’m looking to collaborate on **Data science and Artificial Intelligence in any domain**
+- 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence in any domain**
 <!-- - 📫 How to reach me **yashturakhia7@gmail.com** -->
 
-- I resembel to this saying <h4>***If Data is the problem I would love to solve it***</h4>
+- I resemble to this saying <h4>***If Data is the problem I would love to solve it***</h4>
 
 <h3> Let's Connect</h3> 
 <p align="left">
